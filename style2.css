@@ -1,0 +1,26 @@
+h1
+{
+    color:red;
+}
+
+h2:first
+{
+    color: blue;
+}
+
+h2
+{
+    color: orange;
+}
+
+p
+{
+    text-align: center;
+}
+
+p:last-of-type
+{
+    color: blue; 
+    font-weight: bold;
+    text-align: center;
+}
